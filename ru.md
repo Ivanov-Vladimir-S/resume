@@ -2,7 +2,7 @@
 # Владимир Иванов
 
 ## 2D Pixel Artist & Animator | EN / RU
-![Boo](https://github.com/user-attachments/assets/d7ff2db8-e217-440c-af6d-7758fe9979df)
+<img align="right" width="462" height="412" src="https://github.com/user-attachments/assets/d7ff2db8-e217-440c-af6d-7758fe9979df">
 
 ### Обо мне
 2D Pixel Artist & Animator с опытом **9+ лет** в коммерческой разработке.
