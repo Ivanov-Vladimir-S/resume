@@ -56,8 +56,8 @@
   ![Promo art](https://github.com/user-attachments/assets/cfd5b089-671a-4c44-9425-6191dc0e6be4)
 
 - Участие в *MORTAL KOMBAT COLLAB 2.0*  
-  ![Mortal Kombat Collab]https://github.com/user-attachments/assets/e585364d-9a8c-40c8-ba58-14fea26975a7
+  ![Mortal Kombat Collab](https://github.com/user-attachments/assets/e585364d-9a8c-40c8-ba58-14fea26975a7)
 
 - Создание ассет-паков для геймдев-сообщества  
-  ![Pixel art assets]https://github.com/user-attachments/assets/447672ac-d3ef-404e-8a49-ed026d75c263
+  ![Pixel art assets](https://github.com/user-attachments/assets/447672ac-d3ef-404e-8a49-ed026d75c263)
 
